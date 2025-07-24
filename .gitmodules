@@ -1,0 +1,6 @@
+[submodule "luajit"]
+	path = lib/luajit
+	url = https://github.com/LuaJIT/LuaJIT
+[submodule "luapak"]
+	path = lib/luapak
+	url = https://github.com/Sledmine/luapak
